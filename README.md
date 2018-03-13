@@ -10,7 +10,7 @@
 
 Pour requêter l'api fictive, vous pouvez simplement faire des requêtes ajax sur le fichier « data.js ».
 
-Pour vous aider sur la partie JS avec Browserify, vous pouvez consulter le projet vu ensemble en cours : [https://github.com/jibundeyare/epsi-lille-browserify-2017-2018](https://github.com/jibundeyare/epsi-lille-browserify-2017-2018)
+Pour vous aider sur la partie JS avec Browserify, vous pouvez consulter le projet : [https://github.com/jibundeyare/epsi-lille-browserify-2017-2018](https://github.com/jibundeyare/epsi-lille-browserify-2017-2018)
 
 ## Pré-requis
 
