@@ -1,5 +1,17 @@
 # browserify project
 
+## Cahier des charges
+
+- votre application doit contenir trois onglets : « à faire », « fait » et « tout ». Ces onglets affichent respectivement ce qui est « à faire », ce qui est « fait » et enfin « tout » (fait ou pas fait).
+- chaque click sur un onglet doit provoquer le rechargement des données depuis l'api fictive
+- vous devez utiliser des templates Underscore / Lodash pour afficher du HTML en JS
+- vous devez respecter le format des dates françaises (jj/mm/aaaa)
+- consultez les screenshots et reproduisez l'intégration HTML CSS
+
+Pour requêter l'api fictive, vous pouvez simplement faire des requêtes ajax sur le fichier « data.js ».
+
+Pour vous aider sur la partie JS avec Browserify, vous pouvez consulter le projet vu ensemble en cours : [https://github.com/jibundeyare/epsi-lille-browserify-2017-2018](https://github.com/jibundeyare/epsi-lille-browserify-2017-2018)
+
 ## pré-requis
 
 - nodejs & npm ([nodejs.org](http://nodejs.org/))
