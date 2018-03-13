@@ -12,7 +12,7 @@ Pour requêter l'api fictive, vous pouvez simplement faire des requêtes ajax su
 
 Pour vous aider sur la partie JS avec Browserify, vous pouvez consulter le projet vu ensemble en cours : [https://github.com/jibundeyare/epsi-lille-browserify-2017-2018](https://github.com/jibundeyare/epsi-lille-browserify-2017-2018)
 
-## pré-requis
+## Pré-requis
 
 - nodejs & npm ([nodejs.org](http://nodejs.org/))
 - browserify [Browserify](http://browserify.org/)
@@ -21,13 +21,13 @@ Pour vous aider sur la partie JS avec Browserify, vous pouvez consulter le proje
 - ruby ([Le langage Ruby](https://www.ruby-lang.org/fr/))
 - sass ([Sass: Syntactically Awesome Style Sheets](http://sass-lang.com/))
 
-## install
+## Install
 
     git clone https://github.com/jibundeyare/epsi-lille-browserify-project-2017-2018.git
     cd epsi-lille-browserify-project-2017-2018
     npm install
 
-## cli
+## CLI
 
 Recompiler automatiquement les fichiers sass :
 
@@ -41,7 +41,7 @@ Démarrer un serveur web et recharger automatiquement la page :
 
     browser-sync start --server . --files .
 
-## hints
+## Indices
 
 Utiliser jquery et bootstrap avec browserify :
 
